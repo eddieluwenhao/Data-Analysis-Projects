@@ -1,5 +1,5 @@
-# Projects
-## Health Insurance Cross Sell Prediction 
+# Data Analysis Projects
+## 1. Health Insurance Cross Sell Prediction 
 (Kaggle dataset URL: https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction)
 
 为了预测客户是否对车辆保险感兴趣，获得有关人口统计数据(性别、年龄、地区编码类型)、车辆(车辆年龄、损坏情况)、保单(保费、采购渠道)等信息。

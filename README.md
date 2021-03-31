@@ -23,4 +23,4 @@ Response |目标|分类型|2
 
 •	Work done: Performed EDA analysis, data visualization and preprocessing based on 380k training data with 12 features in demographics, vehicle, and policy aspects. Conducted data modeling using various ML algorithms and hyperparameter tuning to improve the evaluation metric ROC_AUC score from 0.68 to 0.85.
 
-Health Insurance Cross Sell Prediction/Health Insurance Cross Sell Prediction.ipynb
+https://github.com/eddieluwenhao/Data-Analysis-Projects/blob/f38bb8afc4c2ec9e0958bcbee7c3edc650f9fb66/Health%20Insurance%20Cross%20Sell%20Prediction/Health%20Insurance%20Cross%20Sell%20Prediction.ipynb

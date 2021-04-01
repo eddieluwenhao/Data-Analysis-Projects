@@ -27,6 +27,7 @@ Build a model to predict whether a health insurance customer (policyholders) wou
 Performed EDA analysis, data visualization and preprocessing based on 380k training data with 12 features in demographics, vehicle, and policy aspects. Conducted data modeling using various ML algorithms and hyperparameter tuning to improve the evaluation metric ROC_AUC score from 0.68 to 0.85.
 
 
+
 ## 2. [Credit Risk Scorecard Modeling & Default Prediction](https://github.com/eddieluwenhao/Data-Analysis-Projects/blob/main/2.%20Credit%20Risk%20Scorecard%20Modeling%20%26%20Default%20Prediction/Credit%20Risk%20Scorecard%20Modeling%20%26%20Default%20Prediction.ipynb)
 (Kaggle dataset URL: https://www.kaggle.com/c/GiveMeSomeCredit/data)
 
@@ -34,7 +35,7 @@ Performed EDA analysis, data visualization and preprocessing based on 380k train
 根据15万的样本数据，建立一套基于评分卡的风控模型，最终根据客户的各种属性和行为数据，利用信用评分模型，对客户的信用进行评分，从而决定是否给予授信，授信的额度和利率，减少在金融交易中存在的交易风险
 
 字段|说明|类型
----|---:|--:
+---|---|---
 SeriousDlqin2yrs|90天以上逾期或更差|Y/N
 Age|年龄|整数
 RevolvingUtilizationOfUnsecuredLines|除房地产和汽车贷款等无分期付款债务外，信用卡和个人信用额度的总余额除以信贷限额|百分比

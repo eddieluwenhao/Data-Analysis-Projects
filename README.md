@@ -59,5 +59,5 @@ NumberOfDependents|除自己(配偶、子女等)以外的家庭受养人人数|�
 * Step8：建立评分系统(布置上线)，根据生成的评分卡，建立自动信用评分系统
 
 ### Result:
-迭代优化所建立的Scorecard，通过LR超参数调整，改变feature的IV值筛选，调整分箱bin等方式，对Model进行评估提高evaluation metric ROC_AUC score至0.82.
+迭代优化所建立的Scorecard，通过LR超参数调整，改变feature的IV值筛选，调整分箱bin等方式，对LR Model进行评估提高evaluation metric ROC_AUC score至0.82.
 
